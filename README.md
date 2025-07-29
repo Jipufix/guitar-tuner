@@ -32,7 +32,7 @@ This project is a real-time guitar tuner implemented in C. It uses a Fast Fourie
 ## Installation and Usage
 
 1. Clone this repository:
-      git clone https://github.com/yourusername/guitar-tuner.git
+      git clone https://github.com/Jipufix/guitar-tuner
 2. Build the project using your preferred IDE or toolchain for STM32 development.
 3. Flash the binary onto your STM32F7 Discovery Board.
 4. Connect an audio source (e.g., guitar, microphone) and observe the detected notes on the display.
